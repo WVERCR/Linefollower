@@ -17,5 +17,5 @@
 |        12|Weerstand 220 Ω |Weerstand 220 Ω                                           |   recup   |€ 0           |  1   |€ 0      |
 |        13|Weerstand 680 Ω |Weerstand 680 Ω                                           |   recup   |€ 0           |  1   |€ 0      |  
 |        14|Printplaat      |Printplaat 7cm X 9cm                                      |   nieuw   |€ 1,39        |  1   |€ 1,39   |
-|        15|bout en moer    |Bout M4*20 en moer M4 voor montage                        |   recup   |€ 0           |  2   |€ 0      |
+|        15|bout en moer    |Bout M3*15 en moer M3                         |   recup   |€ 0           |  2   |€ 0      |
 |        16|kabels          |kabels                                                    |   nieuw   |€ 3,51        |  30  |€ 3,51   |
