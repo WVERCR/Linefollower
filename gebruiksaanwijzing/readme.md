@@ -20,4 +20,4 @@ Om de sensor te kalibreren plaatsen we de sensor in een volledig zwart vlak, daa
 
 **settings**
 
-De robot rijdt stabiel met volgende parameters: Cycle 2000, Power 75, diff 0.5 , kp 10, ki 0, kd 0
+De robot rijdt stabiel met volgende parameters: Cycle 2400, Power 75, diff 0.5 , kp 10, ki 0, kd 0
