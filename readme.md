@@ -7,19 +7,19 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino Leonardo
 
-motors: 
+motors: 50:1 Micro Metal gearmotors HPB 6V
 
-h-bridge:
+h-bridge: 	DRV8833 Bipolaire Stappenmotor- en DC-Motoraansturing
 
-sensors:
+sensors: QTR8 Reflectance Sensor array 
 
-batteries:
+batteries: 6x AA batterijen 1.5V
 
-wireless communication:
+wireless communication: 	HC-05 Bluetooth module
 
-distance sensor - motors:
+distance sensor - motors: /
 
 weight:
 
