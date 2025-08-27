@@ -7,7 +7,7 @@ uitleg over het opladen of vervangen van de batterijen De batterijen zijn zeer m
 **draadloze communicatie
 verbinding maken**
 
-uitleg over het verbinden van de robot met laptop / smartphone Om connectie te maken met de wagen gebruiken we de app 'Arduino Bluetooth Control' deze werkt wel enkel via android. Om connectie te maken moeten we de bluetooth inschakelen en de HC-05 module via bluetooth zoeken. Eens we verbonden zijn blijft dit zolang de Linefollower niet uitvalt. Wanneer de connectie verbroken is moeten we bovenaan rechts klikken en deze verbindt snel opnieuw.
+uitleg over het verbinden van de robot met laptop / smartphone Om connectie te maken met de wagen gebruiken we de app 'Serial Bluetooth Terminal' deze werkt wel enkel via android. Om connectie te maken moeten we de bluetooth inschakelen en de HC-05 module via bluetooth zoeken. Eens we verbonden zijn blijft dit zolang de Linefollower niet uitvalt. Wanneer de connectie verbroken is moeten we bovenaan rechts klikken en deze verbindt snel opnieuw.
 
 **commando's**
 
