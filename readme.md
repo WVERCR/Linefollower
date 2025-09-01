@@ -1,8 +1,9 @@
 # LineFollower
 
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
+![ward](https://github.com/user-attachments/assets/3ca27324-92bc-4c19-a504-835d5a996747)
 
-![A description of my image](images/empty.png)
+
 
   
 ## specifications
